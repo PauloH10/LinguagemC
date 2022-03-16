@@ -18,7 +18,7 @@ int main(){
     if(na >= MEDAPROV){
         printf("O aluno está Aprovado");
     }
-    else if (na <= MEDREPOV){
+    else if(na <= MEDREPOV){
         printf("O aluno está Reprovado");
     }
     else{
