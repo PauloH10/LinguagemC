@@ -13,7 +13,7 @@ int main(){
     if(strcmp(cargo == "Diretor")==0{
         printf("O salário do diretor é R$15.000,00");
     }
-    else if(strcmp(cargo == "Gerente"){==0
+    else if(strcmp(cargo == "Gerente"){==0{
         printf("O salário do gerente é R$12.000,00");
     }
     else if(strcmp(cargo == "Analista")==0{
