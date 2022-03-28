@@ -1,2 +1,2 @@
 # Estudo da Linguagem C
-## Aplicando em lógica de programação
+## Aplicando em lógica de programação 
